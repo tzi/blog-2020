@@ -9,3 +9,18 @@ Sur ce repository, vous pouvez :
 - Voter pour une idée d'article : [en réagissant aux idées existantes](https://github.com/tzi/blog-2020/issues/)
 - Devenir relecteur sur un article spécifique en vous proposant en commentaire 
 
+## Planning (en cours de construction)
+
+- Fin janvier : [5 TPs simples pour s'entraîner aux CSS](https://github.com/tzi/blog-2020/issues/4)
+- Fin février : [Quelles questions poser lors de l'entretien d'embauche d'un intégrateur ?](https://github.com/tzi/blog-2020/issues/14)
+- Fin mars : ?
+- Fin avril : ?
+- Fin mai : ?
+- Fin juin : ?
+- Fin juillet : ?
+- Fin août : ?
+- Fin septembre : ?
+- Fin octobre : ?
+- Fin novembre : ?
+- Fin décembre : ?
+

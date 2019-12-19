@@ -7,4 +7,5 @@ Sur ce repository, vous pouvez :
 
 - Proposer une idée d'article : [en créant une issue](https://github.com/tzi/blog-2020/issues/new)
 - Voter pour une idée d'article : [en réagissant aux idées existantes](https://github.com/tzi/blog-2020/issues/)
+- Devenir relecteur sur un article spécifique en vous proposant en commentaire 
 
